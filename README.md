@@ -12,7 +12,7 @@ There is a list of images and some options for the name.
 
  ![main screen](https://github.com/Abicetta/ItalianPastaQuiz/blob/master/app/src/main/res/drawable/Screenshot_20171203_3.png)
 
-at the end of the quiz You will have a toast with the response
+At the end of the quiz you will have a toast with the response
 
  ![response screen](https://github.com/Abicetta/ItalianPastaQuiz/blob/master/app/src/main/res/drawable/Screenshot_20171203_7.png)
 
